@@ -18,16 +18,11 @@ This task required to investigate `"mystery image"` and reveal hidden elements b
 
 
 ## Main part 
-In this part photo mosaic was implemented by using `python`. I implemented this task with different shapes: `circle` and `square`. It can be regulated inside python code. It can take a while in order to render your final photo, cause I used high-quality images for both dataset and input. 
+In this part, the visual illusion was implemented by using MATLAB. An interesting fact about our eyes is that they can be tricked to see more colours than it is in reality. You can observe the obtained results below. 1st image is a grayscale one with 256 levels, while the 2nd image has only two levels: black and white. You see grey tones on the right, however, it is only an illusion. I used Floyd–Steinberg dithering in order to complete this task.
 
-In order to run code just change directory to source folder and type `python main.py` or `python circle.py`. In case if you want to change size of the tiles, then you need to find this line `parser.add_argument("--stride", type=int, default=40, help="Size of small image")` and change `40` to bigger or smaller value. Note that dataset and output folder, as well as python files should be located in the same folder. Unfortunately I can't upload files more than `10 Mb` that is why you need to run these scripts by yourselves in order to observe results. I will put compressed results below. Square images:
+Original Image: ![Снимок экрана 2021-03-03 131325](https://user-images.githubusercontent.com/67557966/109767769-3f707900-7c22-11eb-8094-ba66489d19b0.jpg)
 
-
-![output-min](https://user-images.githubusercontent.com/67557966/107982283-f13a6380-6fed-11eb-82c7-84cbc7dd932d.jpg)
-
-Circle images:
-
-![output-min](https://user-images.githubusercontent.com/67557966/108085250-539f6c80-709f-11eb-9248-7a531060aa35.jpg)
+Floyd–Steinberg dithering: ![2 1](https://user-images.githubusercontent.com/67557966/109767817-51521c00-7c22-11eb-9009-6b0ef5210107.jpg)
 
 ## Good Luck!
 
