@@ -32,7 +32,7 @@ I2 = uint8(I2);
 subplot(1,2,1),imshow(I);title('Original Image'); axis([0,1440,0,1080]);axis on;
 subplot(1,2,2),imshow(I2);title('Image with interpolation');  axis([0,1440,0,1080]);axis on;
 
-%% Task 1.2 - Histogram equalization 
+%% Task 1.2 - Histogram equalization
 I = imread('secret.png');
 I_HE = histeq(I);
 fun = @(block_struct)histeq(block_struct.data);
