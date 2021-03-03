@@ -26,7 +26,7 @@ Original Image:
 
 Floyd–Steinberg dithering:
 
-![2 1](https://user-images.githubusercontent.com/67557966/109767817-51521c00-7c22-11eb-9009-6b0ef5210107.jpg)
+![Снимок экрана 2021-03-03 131518](https://user-images.githubusercontent.com/67557966/109767996-85c5d800-7c22-11eb-8668-d89dc0e52b4d.jpg)
 
 ## Good Luck!
 
