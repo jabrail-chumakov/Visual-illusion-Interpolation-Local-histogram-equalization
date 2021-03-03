@@ -20,9 +20,13 @@ This task required to investigate `"mystery image"` and reveal hidden elements b
 ## Main part 
 In this part, the visual illusion was implemented by using MATLAB. An interesting fact about our eyes is that they can be tricked to see more colours than it is in reality. You can observe the obtained results below. 1st image is a grayscale one with 256 levels, while the 2nd image has only two levels: black and white. You see grey tones on the right, however, it is only an illusion. I used Floyd–Steinberg dithering in order to complete this task.
 
-Original Image: ![Снимок экрана 2021-03-03 131325](https://user-images.githubusercontent.com/67557966/109767769-3f707900-7c22-11eb-8094-ba66489d19b0.jpg)
+Original Image:
 
-Floyd–Steinberg dithering: ![2 1](https://user-images.githubusercontent.com/67557966/109767817-51521c00-7c22-11eb-9009-6b0ef5210107.jpg)
+![Снимок экрана 2021-03-03 131325](https://user-images.githubusercontent.com/67557966/109767769-3f707900-7c22-11eb-8094-ba66489d19b0.jpg)
+
+Floyd–Steinberg dithering:
+
+![2 1](https://user-images.githubusercontent.com/67557966/109767817-51521c00-7c22-11eb-9009-6b0ef5210107.jpg)
 
 ## Good Luck!
 
