@@ -1,8 +1,6 @@
 # ROBT403: Image Processing Homework Project 2
 Visual illusion | Interpolation | Local histogram equalization implementation by using MATLAB
 
-Install Matlab, Python 3.6, as well as `cv2` and `numpy`.   
-
 ## Description
 In this assigment it was required to implement some tasks in warmup part by using MATLAB software and to code script that will create mosaic from different small photos.
 
